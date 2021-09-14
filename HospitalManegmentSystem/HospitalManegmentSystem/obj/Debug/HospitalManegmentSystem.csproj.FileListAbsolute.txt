@@ -1,0 +1,59 @@
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\bin\Debug\HospitalManegmentSystem.exe.config
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\bin\Debug\HospitalManegmentSystem.exe
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\bin\Debug\HospitalManegmentSystem.pdb
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Form1.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Properties.Resources.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.exe
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.pdb
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Menu.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.PatientRegistration.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Path.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.PatientInformation.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.DoctorRegistration.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.PathToStaff.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.StaffInformation.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.StaffSearch.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.AddRoom.resources
+C:\Users\user\Desktop\6. Müfredat\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.RoomStatus.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\bin\Debug\HospitalManegmentSystem.exe.config
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\bin\Debug\HospitalManegmentSystem.exe
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\bin\Debug\HospitalManegmentSystem.pdb
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.csprojResolveAssemblyReference.cache
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.AddRoom.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.DoctorRegistration.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Form1.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Menu.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Path.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.PathToStaff.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.PatientInformation.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.PatientRegistration.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Properties.Resources.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.RoomStatus.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.StaffInformation.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.StaffSearch.resources
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.csproj.GenerateResource.Cache
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.csproj.CoreCompileInputs.cache
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.exe
+D:\6. Dönem\Görsel Programlama\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.pdb
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\bin\Debug\HospitalManegmentSystem.exe.config
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.exe
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.pdb
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\bin\Debug\HospitalManegmentSystem.exe
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\bin\Debug\HospitalManegmentSystem.pdb
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.AddRoom.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.DoctorRegistration.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Form1.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Menu.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Path.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.PathToStaff.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.PatientInformation.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.PatientRegistration.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.Properties.Resources.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.RoomStatus.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.StaffInformation.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.StaffSearch.resources
+C:\Users\busra\Desktop\HospitalManegmentSystem\HospitalManegmentSystem\obj\Debug\HospitalManegmentSystem.csproj.GenerateResource.Cache
